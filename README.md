@@ -63,8 +63,8 @@ This is a game mod about Duckov to change it Throw voice. 一个简单的逃离�
 
 ## 项目配置文件:  
 
+```
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <LangVersion>9.0</LangVersion> 
@@ -94,3 +94,4 @@ This is a game mod about Duckov to change it Throw voice. 一个简单的逃离�
         <Reference Include="$(DuckovPath)$(SubPath)Unity*" />
     </ItemGroup>
 </Project>
+```
