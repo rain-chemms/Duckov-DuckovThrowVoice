@@ -18,24 +18,24 @@ This is a game mod about Duckov to change it Throw voice. 一个简单的逃离�
 ---
 
 ## 代码仓库结构
-        源代码在"DuckovThrowVoiceSource"文件夹中
-        编译后的Mod文件方在"DuckovThrowVoiceMod"文件夹中
+    源代码在"DuckovThrowVoiceSource"文件夹中
+    编译后的Mod文件方在"DuckovThrowVoiceMod"文件夹中
 
 ---
 
 ## 读取文件结构
-    -FileChips **总主音频文件夹**
-        -SmokeChips **烟雾弹音频子文件夹**
-            -Smoke1.wav **烟雾弹音频文件mp3**
-            -Smoke2.mp3 **烟雾弹音频文件wav**
-            -Smoke3.ogg **烟雾弹音频文件ogg**
-            -......
-        -FireChips **燃烧弹音频子文件夹**
-            -......
-        -GrenadeChips **手雷音频子文件夹**
-            -......
-        -FlashChips **闪光弹音频子文件夹**
-            -......
+- FileChips **总主音频文件夹**
+    - SmokeChips **烟雾弹音频子文件夹**
+        - Smoke1.wav **烟雾弹音频文件mp3**
+            - Smoke2.mp3 **烟雾弹音频文件wav**
+            - Smoke3.ogg **烟雾弹音频文件ogg**
+            - ......
+    - FireChips **燃烧弹音频子文件夹**
+        - ......
+    - GrenadeChips **手雷音频子文件夹**
+        - ......
+    - FlashChips **闪光弹音频子文件夹**
+        - ......
     [配置界面示例图片](./ExampleViews/SettingExample1.png)
     [配置界面示例图片](./ExampleViews/SettingExample2.png)
 
@@ -53,14 +53,13 @@ This is a game mod about Duckov to change it Throw voice. 一个简单的逃离�
 ---
 
 ## 依赖以及C#版本要求
-    - .NET Standard 2.1
+- .NET Standard 2.1
     - C# 9.0及以上
     - harmony 2.0.1
 
 ---
 
 ## 项目配置文件:  
-'''
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
@@ -93,4 +92,3 @@ This is a game mod about Duckov to change it Throw voice. 一个简单的逃离�
     </ItemGroup>
 
 </Project>
-'''
