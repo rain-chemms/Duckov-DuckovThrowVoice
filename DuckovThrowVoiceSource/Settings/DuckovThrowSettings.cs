@@ -92,6 +92,7 @@ internal static class DuckovThrowVoiceSettings
         field = value;
         Persist();
         SyncDataToVoicer();
+        DuckovThrowVoice.ModBehaviour.SetClips();
     }
 
     /*

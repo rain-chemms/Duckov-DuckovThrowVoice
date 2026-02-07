@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DuckovThrowVoice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfb008db3173c42bd2dbf62b0417b56edfe3bb44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DuckovThrowVoice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DuckovThrowVoice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

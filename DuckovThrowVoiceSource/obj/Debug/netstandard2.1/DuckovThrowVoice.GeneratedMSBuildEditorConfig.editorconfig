@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = DuckovThrowVoice
-build_property.ProjectDir = D:\PROJECT\C#\Duckov-DuckovThrowVoice\DuckovThrowVoiceSource\
+build_property.ProjectDir = D:\PROJECT\C#\逃离鸭科夫投掷音效\DuckovThrowVoice\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

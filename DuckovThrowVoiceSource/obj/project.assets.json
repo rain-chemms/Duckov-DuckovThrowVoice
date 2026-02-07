@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\DuckovThrowVoice.csproj",
+      "projectUniqueName": "D:\\PROJECT\\C#\\逃离鸭科夫投掷音效\\DuckovThrowVoice\\DuckovThrowVoice.csproj",
       "projectName": "DuckovThrowVoice",
-      "projectPath": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\DuckovThrowVoice.csproj",
+      "projectPath": "D:\\PROJECT\\C#\\逃离鸭科夫投掷音效\\DuckovThrowVoice\\DuckovThrowVoice.csproj",
       "packagesPath": "C:\\Users\\ZhuanZ\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\obj\\",
+      "outputPath": "D:\\PROJECT\\C#\\逃离鸭科夫投掷音效\\DuckovThrowVoice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\共享工具\\NuGetPackages"

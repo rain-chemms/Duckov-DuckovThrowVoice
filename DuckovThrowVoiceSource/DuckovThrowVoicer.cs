@@ -55,7 +55,7 @@ namespace DuckovThrowVoice
 
         [SerializeField] public Harmony harmony;//Harmony实例
 
-        [SerializeField] public string[] audioExtensions = { ".wav", ".ogg", ".mp3" };//音频文件的支持格式
+        [SerializeField] public static string[] audioExtensions = { ".wav", ".ogg", ".mp3" };//音频文件的支持格式
 
         [SerializeField] public static string clipsFilePath = "./Duckov_Data/Mods/DuckovThrowVoice/AudioClips";//音频文件夹的路径
         [SerializeField] public static string smokeAddPath = "/SmokeBomb";//在clipFilePath文件夹下的子文件夹路径,代表所有烟雾弹音频路径
@@ -75,7 +75,7 @@ namespace DuckovThrowVoice
         [NonSerialized] public static int smokeClipIndex = 0;//烟雾弹音频的索引
         [NonSerialized] public static int fireClipIndex = 0;//燃烧弹音频的索引
 
-        private void SetClips()//该函数用于读取clipsFilePath中的所有文件,加载每个文件的路径并将每个索引归零
+        public static void SetClips()//该函数用于读取clipsFilePath中的所有文件,加载每个文件的路径并将每个索引归零
         {
             foreach (string ext in audioExtensions)
             {
@@ -93,6 +93,7 @@ namespace DuckovThrowVoice
         //播放手雷音效:使用不同的手雷名称区分投掷音效
         public static void PlayVoice(String displayName = "手雷")
         {
+            if(smokeClipsPath.Count <=0 || fireClipsPath.Count <= 0 || flashClipsPath.Count <= 0 || bombClipsPath.Count <= 0) return;
             switch (displayName)
             {
                 case "闪光":
@@ -113,6 +114,7 @@ namespace DuckovThrowVoice
                 case "手雷":
                 case "电击手雷":
                 default:
+                    if (bombClipIndex >= bombClipsPath.Count || bombClipIndex < 0) break;
                     AudioManager.PostCustomSFX(bombClipsPath[bombClipIndex]);
                     break;
             }
@@ -122,18 +124,19 @@ namespace DuckovThrowVoice
         //PlayVoice()函数重载,用物品ID区分手雷类型
         public static void PlayVoice(int itemID)
         {
+            if (smokeClipsPath.Count <= 0 || fireClipsPath.Count <= 0 || flashClipsPath.Count <= 0 || bombClipsPath.Count <= 0) return;   
             switch (itemID) 
             {
                 case 66://代表"闪光手雷"
-                    if (flashClipIndex >= flashClipsPath.Count) break;
+                    if (flashClipIndex >= flashClipsPath.Count || flashClipIndex<0) break;
                     AudioManager.PostCustomSFX(flashClipsPath[flashClipIndex]);
                     break;
                 case 660://代表"烟雾弹"
-                    if (smokeClipIndex >= smokeClipsPath.Count) break;
+                    if (smokeClipIndex >= smokeClipsPath.Count || smokeClipIndex<0) break;
                     AudioManager.PostCustomSFX(smokeClipsPath[smokeClipIndex]);
                     break;
                 case 941://代表"燃烧弹":
-                    if(fireClipIndex >= fireClipsPath.Count) break;
+                    if(fireClipIndex >= fireClipsPath.Count || fireClipIndex < 0) break;
                     AudioManager.PostCustomSFX(fireClipsPath[fireClipIndex]);
                     break;
                 case 23://代表"管状炸弹":
@@ -142,6 +145,7 @@ namespace DuckovThrowVoice
                 case 67://代表"手雷"
                 case 942://代表"电击手雷"
                 default:
+                    if (bombClipIndex >= bombClipsPath.Count || bombClipIndex < 0) break;
                     AudioManager.PostCustomSFX(bombClipsPath[bombClipIndex]);
                     break;
             }

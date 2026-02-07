@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\",
+  "WorkspaceRootPath": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\duckov-duckovthrowvoice\\duckovthrowvoicesource\\duckovthrowvoice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|solutionrelative:duckovthrowvoice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\duckov-duckovthrowvoice\\duckovthrowvoicesource\\ui\\modsettingscontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|solutionrelative:ui\\modsettingscontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\duckov-duckovthrowvoice\\duckovthrowvoicesource\\duckovthrowvoicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\duckovthrowvoice\\duckovthrowvoicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|solutionrelative:duckovthrowvoicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\duckov-duckovthrowvoice\\duckovthrowvoicesource\\settings\\duckovthrowsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\duckovthrowvoice\\settings\\duckovthrowsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|solutionrelative:settings\\duckovthrowsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\duckov-duckovthrowvoice\\duckovthrowvoicesource\\ui\\optionspanelpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\duckovthrowvoice\\ui\\modsettingscontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|solutionrelative:ui\\modsettingscontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\duckovthrowvoice\\ui\\optionspanelpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|solutionrelative:ui\\optionspanelpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\duckov-duckovthrowvoice\\duckovthrowvoicesource\\duckovthrowvoice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\duckovthrowvoice\\duckovthrowvoice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|solutionrelative:duckovthrowvoice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\duckov-duckovthrowvoice\\duckovthrowvoicesource\\0harmony.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\duckovthrowvoice\\duckovthrowvoice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|solutionrelative:duckovthrowvoice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|d:\\project\\c#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\duckovthrowvoice\\0harmony.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{239BA821-2627-45F9-89D5-B4F8F2840265}|DuckovThrowVoice.csproj|solutionrelative:0harmony.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
@@ -37,8 +37,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 513,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 447,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,73 +46,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DuckovThrowVoicer.cs",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\DuckovThrowVoicer.cs",
+              "RelativeDocumentMoniker": "DuckovThrowVoicer.cs",
+              "ToolTip": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\DuckovThrowVoicer.cs",
+              "RelativeToolTip": "DuckovThrowVoicer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwEkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:32:36.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ModSettingsContent.cs",
-              "DocumentMoniker": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\UI\\ModSettingsContent.cs",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\UI\\ModSettingsContent.cs",
               "RelativeDocumentMoniker": "UI\\ModSettingsContent.cs",
-              "ToolTip": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\UI\\ModSettingsContent.cs",
+              "ToolTip": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\UI\\ModSettingsContent.cs",
               "RelativeToolTip": "UI\\ModSettingsContent.cs",
-              "ViewState": "AgIAAGIBAAAAAAAAAAASwGoBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAAAN8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T10:50:41.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DuckovThrowVoicer.cs",
-              "DocumentMoniker": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\DuckovThrowVoicer.cs",
-              "RelativeDocumentMoniker": "DuckovThrowVoicer.cs",
-              "ToolTip": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\DuckovThrowVoicer.cs",
-              "RelativeToolTip": "DuckovThrowVoicer.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwIcAAABDAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OptionsPanelPatch.cs",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\UI\\OptionsPanelPatch.cs",
+              "RelativeDocumentMoniker": "UI\\OptionsPanelPatch.cs",
+              "ToolTip": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\UI\\OptionsPanelPatch.cs",
+              "RelativeToolTip": "UI\\OptionsPanelPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T16:32:36.554Z"
+              "WhenOpened": "2026-02-06T10:53:25.788Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OptionsPanelPatch.cs",
-              "DocumentMoniker": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\UI\\OptionsPanelPatch.cs",
-              "RelativeDocumentMoniker": "UI\\OptionsPanelPatch.cs",
-              "ToolTip": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\UI\\OptionsPanelPatch.cs",
-              "RelativeToolTip": "UI\\OptionsPanelPatch.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAqwM8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T10:53:25.788Z"
+              "Title": "DuckovThrowVoice",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\DuckovThrowVoice.csproj",
+              "RelativeDocumentMoniker": "DuckovThrowVoice.csproj",
+              "ToolTip": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\DuckovThrowVoice.csproj",
+              "RelativeToolTip": "DuckovThrowVoice.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T18:32:00.322Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DuckovThrowVoice",
-              "DocumentMoniker": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\DuckovThrowVoice.csproj",
-              "RelativeDocumentMoniker": "DuckovThrowVoice.csproj",
-              "ToolTip": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\DuckovThrowVoice.csproj",
-              "RelativeToolTip": "DuckovThrowVoice.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-18T18:32:00.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "DuckovThrowVoice.csproj",
-              "DocumentMoniker": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\DuckovThrowVoice.csproj",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\DuckovThrowVoice.csproj",
               "RelativeDocumentMoniker": "DuckovThrowVoice.csproj",
-              "ToolTip": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\DuckovThrowVoice.csproj",
+              "ToolTip": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\DuckovThrowVoice.csproj",
               "RelativeToolTip": "DuckovThrowVoice.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-18T16:32:51.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T16:32:51.095Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "0Harmony.dll",
-              "DocumentMoniker": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\0Harmony.dll",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\0Harmony.dll",
               "RelativeDocumentMoniker": "0Harmony.dll",
-              "ToolTip": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\0Harmony.dll",
+              "ToolTip": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\0Harmony.dll",
               "RelativeToolTip": "0Harmony.dll",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
               "WhenOpened": "2025-11-19T04:32:14.815Z"
@@ -120,18 +120,18 @@
           ]
         },
         {
-          "DockedWidth": 25,
+          "DockedWidth": 91,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DuckovThrowSettings.cs",
-              "DocumentMoniker": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\Settings\\DuckovThrowSettings.cs",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\Settings\\DuckovThrowSettings.cs",
               "RelativeDocumentMoniker": "Settings\\DuckovThrowSettings.cs",
-              "ToolTip": "D:\\PROJECT\\C#\\Duckov-DuckovThrowVoice\\DuckovThrowVoiceSource\\Settings\\DuckovThrowSettings.cs",
+              "ToolTip": "D:\\PROJECT\\C#\\\u9003\u79BB\u9E2D\u79D1\u592B\u6295\u63B7\u97F3\u6548\\DuckovThrowVoice\\Settings\\DuckovThrowSettings.cs",
               "RelativeToolTip": "Settings\\DuckovThrowSettings.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAuwG4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAA6wF4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T10:55:22.994Z",
               "EditorCaption": ""

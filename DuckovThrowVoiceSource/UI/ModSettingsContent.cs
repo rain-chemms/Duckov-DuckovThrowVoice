@@ -253,7 +253,7 @@ namespace DuckovThrowVoice.UI
                 inputField.textComponent.fontSize = 32f;
                 inputField.textComponent.color = Color.white;
             }
-
+            
             // 5. 添加监听器
             inputField.onValueChanged.RemoveAllListeners();
             inputField.onValueChanged.AddListener(value =>
@@ -261,6 +261,10 @@ namespace DuckovThrowVoice.UI
                 if (_applyingFromSettings) return;
                 setter(value);
             });
+            inputField.characterLimit = 0;//取消输入限制
+            inputField.contentType = TMP_InputField.ContentType.Standard; // 允许任何字符
+            inputField.lineType = TMP_InputField.LineType.SingleLine;//单行
+
 
             _inputFieldBindings.Add((inputField, getter));
         }
