@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>9.0</LangVersion> 
+	<Nullable>enable</Nullable>
+
+      <!-- For Windows users, please fill the folder path which contains Duckov.exe below -->
+      <!-- Windows 用户请在下面这行填写你的鸭科夫安装路径（包含 Duckov.exe 的目录），这样编译器就能找到相关的 dll 文件 -->
+      <DuckovPath>E:\Steam\steamapps\common\Escape from Duckov</DuckovPath>
+
+        <SubPath>\Duckov_Data\Managed\</SubPath>
+
+        <BaseOutputPath>D:\PROJECT\C#\逃离鸭科夫投掷音效\ReleaseMod\DuckovThrowVoice</BaseOutputPath>
+    </PropertyGroup>
+	
+	<ItemGroup>
+        <Reference Include="$(DuckovPath)$(SubPath)TeamSoda.*" />
+        <Reference Include="$(DuckovPath)$(SubPath)ItemStatsSystem.dll" />
+        <Reference Include="0Harmony">
+          <HintPath>0Harmony.dll</HintPath>
+        </Reference>
+        <Reference Include="FMODUnity">
+          <HintPath>FMODUnity.dll</HintPath>
+        </Reference>
+        <Reference Include="HarmonyLoadMod">
+          <HintPath>HarmonyLoadMod.dll</HintPath>
+        </Reference>
+        <Reference Include="$(DuckovPath)$(SubPath)Unity*" />
+    </ItemGroup>
+
+</Project>
