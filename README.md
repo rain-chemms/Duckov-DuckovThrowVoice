@@ -55,7 +55,9 @@ This is a game mod about Duckov to change it Throw voice. 一个简单的逃离�
 ## 依赖以及C#版本要求
 - .NET Standard 2.1
     - C# 9.0及以上
-    - harmony 2.0.1
+    - harmony库:haramony.dll
+    - 音频库:FMODUnity.dll
+    - 开源项目BetterGunPlayMod包含的依赖项
 
 ---
 
