@@ -36,8 +36,8 @@ This is a game mod about Duckov to change it Throw voice. 一个简单的逃离�
             -......
         -FlashChips **闪光弹音频子文件夹**
             -......
-    ![配置界面示例图片](./ExampleViews/SettingExample1.png)
-    ![配置界面示例图片](./ExampleViews/SettingExample2.png)
+    [配置界面示例图片](./ExampleViews/SettingExample1.png)
+    [配置界面示例图片](./ExampleViews/SettingExample2.png)
 
 ---
 
